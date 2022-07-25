@@ -1,0 +1,8 @@
+# Lucru cu httpie
+
+* http :3000/track
+
+* http -f POST :3000/track name="Constantin" artist="E" text="Testez post metod cu import files" picture@"~/Загрузки/img.jpg" audio@"~/Загрузки/audio.mp3"
+
+
+
